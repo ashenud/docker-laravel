@@ -47,7 +47,7 @@ DB_ROOT_PASSWORD=my-secret-pw
 * Redirect to the ```docker-larvel``` folder and execute the following command on the terminal.
 
 ```
-docker compose up -d
+docker-compose up -d
 ```
 
 #### That's it, now you can run your laravel project in port 8080
