@@ -50,7 +50,7 @@ DB_ROOT_PASSWORD=my-secret-pw
 docker-compose up -d
 ```
 
-#### That's it, now you can run your laravel project in port 8080
+### That's it, now you can run your laravel project in port 8080
 
 * Also you can execute the composer and artisan command as follows.
 
